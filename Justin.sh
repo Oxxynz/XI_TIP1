@@ -1,1 +1,1 @@
-echo "ini file pertama"
+echo "ini file pertama saya"
